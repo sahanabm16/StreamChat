@@ -81,12 +81,4 @@ Ultralytics YOLO
 
 OpenAI GPT API
 
-yaml
-Copy
-Edit
 
----
-
-Let me know:
-- What exactly each file does (`chat.py`, `streamlit`, etc.) so I can tailor the README.
-- If you’d like me to auto-generate `requirements.txt` or a `.gitignore` file too.
